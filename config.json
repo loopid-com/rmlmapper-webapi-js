@@ -1,5 +1,5 @@
 {
-  "baseURL": "https://rml.loopid.com",
+  "baseURL": "https://loopid-rml-service.azurewebsites.net",
   "removeTempFolders": true,
   "rateLimiter": {
     "window": 15,
