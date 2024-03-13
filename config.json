@@ -1,5 +1,5 @@
 {
-  "baseURL": "http://localhost:4000",
+  "baseURL": "https://rml.loopid.com",
   "removeTempFolders": true,
   "rateLimiter": {
     "window": 15,
